@@ -20,6 +20,8 @@ I'm a Front-End Developer who specializes in React and Next.js.I am very passion
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DonaldMzima&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DonaldMzima=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
   
 
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact)](https://github.com/DonaldMzima/github-readme-stats)
