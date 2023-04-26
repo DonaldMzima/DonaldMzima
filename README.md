@@ -10,9 +10,10 @@ I'm a Front-End Developer who specializes in React and Next.js.I am very passion
 <br>
 🤝  I'm open to collaborating on any interesting open source projects.
 <br/>
-
+f
 Skills
-<br/>
+-
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,js,ts,nextjs,graphql,git)](https://skillicons.dev)
 <br/>
 
