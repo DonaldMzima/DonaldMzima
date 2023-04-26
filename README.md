@@ -4,6 +4,6 @@ I'm a Front-End Developer who specializes in React and Next.js.I am very passion
 
 🌍  I'm based in South Africa
 ✉️  You can contact me at donaldmzima8@gmail.com
-🧠  I'm learning React(Typescript/javascript) + Svelte
+🧠  I'm learning React(javascript + Typescript/),REST API + GraphQL
 🤝  I'm open to collaborating on any interesting open source projects.
 
