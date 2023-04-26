@@ -12,7 +12,8 @@ I'm a Front-End Developer who specializes in React and Next.js.I am very passion
 <br/>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,js,ts,nextjs,graphql,git)](https://skillicons.dev)
-
+<br/>
+[![socials](https://skillicons.dev/icons?i=github)]([https://skillicons.dev](https://github.com/DonaldMzima/))
 
   
 
