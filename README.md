@@ -12,10 +12,13 @@ I'm a Front-End Developer who specializes in React and Next.js.I am very passion
 <br/>
 
 ###Skills
+
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,js,ts,nextjs,graphql,git)](https://skillicons.dev)
 <br/>
+
 ###Socials
+
 [![socials](https://skillicons.dev/icons?i=github,linkedin)]([https://skillicons.dev](https://github.com/DonaldMzima/))
 
 <br/>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonaldMzima&show_icons=true&theme=radical)
