@@ -11,4 +11,6 @@ I'm a Front-End Developer who specializes in React and Next.js.I am very passion
 🤝  I'm open to collaborating on any interesting open source projects.
 <br/>
 
+Skills
+Dart JavaScript TypeScript HTML5 React NextJs TailwindCSS Material UI CSS3 NodeJS GraphQL Supabase Firebase Flutter Figma
 
