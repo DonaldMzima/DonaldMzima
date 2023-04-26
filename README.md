@@ -39,7 +39,7 @@ My GitHub Stats
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonaldMzima&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
