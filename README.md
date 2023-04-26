@@ -25,16 +25,23 @@ Socials
 -
 
 [![socials](https://skillicons.dev/icons?i=github,linkedin)]([https://skillicons.dev](https://github.com/DonaldMzima/))
-
-<br/>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonaldMzima&show_icons=true&theme=radical)
 <br/>
+
+Badges
+-
+
+My GitHub Stats
+<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonaldMzima&show_icons=true&theme=radical)
+<br/>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DonaldMzima&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DonaldMzima=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
   
-
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonaldMzima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonaldMzima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
