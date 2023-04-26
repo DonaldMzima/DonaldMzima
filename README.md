@@ -35,8 +35,8 @@ My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonaldMzima&show_icons=true&theme=radical)
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DonaldMzima=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonaldMzima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
