@@ -16,5 +16,7 @@ I'm a Front-End Developer who specializes in React and Next.js.I am very passion
 [![socials](https://skillicons.dev/icons?i=github)]([https://skillicons.dev](https://github.com/DonaldMzima/))
 
 <br/>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonaldMzima&show_icons=true&theme=radical)
+<br/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DonaldMzima&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 
