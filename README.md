@@ -24,7 +24,7 @@ Skills
 Socials
 -
 
-[![socials](https://skillicons.dev/icons?i=github)]([https://github.com/DonaldMzima])
+[![socials](https://skillicons.dev/icons?i=github)]([https://github.com/DonaldMzima](https://skillicons.dev))
 <br/>
 
 Badges
