@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Donald
 
 I'm a Front-End Developer who specializes in React and Next.js.I am very passionate about learning programming and I've work hard to develop skills that are relevant to this industry and because this type of work brings me personal satisfaction.
 
@@ -24,7 +24,7 @@ Skills
 Socials
 -
 
-[![socials](https://skillicons.dev/icons?i=github,linkedin)]([https://skillicons.dev](https://github.com/DonaldMzima))
+[![socials](https://skillicons.dev/icons?i=github)]([https://skillicons.dev](https://github.com/DonaldMzima))
 <br/>
 
 Badges
