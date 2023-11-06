@@ -8,7 +8,7 @@ I'm a Front-End Developer who specializes in React and Next.js.I am very passion
 <br/>
 ✉️  You can contact me at donaldmzima8@gmail.com .
 <br>
-🧠  I'm learning React(javascript + Typescript/),REST API + GraphQL.
+🧠  I'm learning GraphQL.
 <br>
 🤝  I'm open to collaborating on any interesting open source projects.
 <br/>
