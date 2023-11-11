@@ -12,7 +12,7 @@ I'm a Front-End Developer who specializes in React and Next.js.I am very passion
 <br>
 🤝  I'm open to collaborating on any interesting open source projects.
 <br/>
-
+https://www.linkedin.com/in/donaldmzima-8557a3231 
 
 
 
