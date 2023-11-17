@@ -4,6 +4,8 @@ I'm a Front-End Developer who specializes in React and Next.js.I am very passion
 
 https://smarten-up-test.vercel.app/
 
+https://github.com/DonaldMzima
+
 🌍  I'm based in South Africa.
 <br/>
 🖥️  See my portfolio at https://donald-portfolio-beta.vercel.app
