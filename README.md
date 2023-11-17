@@ -2,6 +2,8 @@
 
 I'm a Front-End Developer who specializes in React and Next.js.I am very passionate about learning programming and I've work hard to develop skills that are relevant to this industry and because this type of work brings me personal satisfaction.
 
+https://smarten-up-test.vercel.app/
+
 🌍  I'm based in South Africa.
 <br/>
 🖥️  See my portfolio at https://donald-portfolio-beta.vercel.app
