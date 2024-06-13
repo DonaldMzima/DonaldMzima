@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Donald
 
-I'm a Front-End Developer who specializes in React and Next.js.I am very passionate about learning programming and I've work hard to develop skills that are relevant to this industry and because this type of work brings me personal satisfaction.
+I'm a Software Developer who specializes in React and Next.js.I am very passionate about learning programming and I've work hard to develop skills that are relevant to this industry and because this type of work brings me personal satisfaction.
 
 🌍  I'm based in South Africa.
 <br/>
