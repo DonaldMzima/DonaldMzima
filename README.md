@@ -1,7 +1,11 @@
 ### Hi there 👋 I'm Donald
 
-I'm a Software Developer who specializes in React and Next.js.I am very passionate about learning programming and I've work hard to develop skills that are relevant to this industry and because this type of work brings me personal satisfaction.
-
+I am a Software Developer primarily focused on web development, with over years of professional
+experience. My journey began as a Intern , and I've progressively expanded my expertise through diverse
+projects and exposure to various technologies, notably at Joblify Connect. This path has shaped me into an
+adaptable and agile developer. I thrive on solving problems and continuously advancing my skills. I'm now
+actively seeking a role within a dynamic, ambitious, and innovative team, where my passion for software
+development and collaborative spirit can contribute effectively to achieving shared goals.
 🌍  I'm based in South Africa.
 <br/>
 🖥️  See my portfolio at https://donald-portfolio-beta.vercel.app
