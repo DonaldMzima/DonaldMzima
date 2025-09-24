@@ -6,6 +6,7 @@ projects and exposure to various technologies, notably at Joblify Connect. This 
 adaptable and agile developer. I thrive on solving problems and continuously advancing my skills. I'm now
 actively seeking a role within a dynamic, ambitious, and innovative team, where my passion for software
 development and collaborative spirit can contribute effectively to achieving shared goals.
+<br>
 🌍  I'm based in South Africa.
 <br/>
 🖥️  See my portfolio at https://donald-portfolio-beta.vercel.app
