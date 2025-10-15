@@ -9,7 +9,7 @@ experience.
 <br/>
 ✉️  You can contact me at donaldmzima8@gmail.com .
 <br>
-🧠  I'm learning React Native .
+🧠  I'm learning Angular.
 <br>
 🤝  I'm open to collaborating on any interesting open source projects.
 <br/>
