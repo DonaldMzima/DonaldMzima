@@ -1,12 +1,12 @@
 ### 👋 Hi there, I'm Donald Mzima  
 
-I'm a **Software Developer** focused on building clean, fast, and modern web applications.  
+I'm a **Software Developer** focused on building fast web applications.  
 With over **3 years of experience**, I enjoy solving problems and creating tools that make people's lives easier.  
 
 🌍  Based in **South Africa**  
 🖥️  Portfolio: [donald-portfolio-beta.vercel.app](https://donald-portfolio-beta.vercel.app)  
 ✉️  Email: **donaldmzima8@gmail.com**  
-📱  Phone: **072 403 5942**  
+📱  Phone: **078 994 1731**  
 🧠  Currently learning **Angular**  
 🤝  Open to collaborating on **open-source projects** or creative ideas  
 
