@@ -1,33 +1,46 @@
-### Hi there 👋 I'm Donald
+### 👋 Hi there, I'm Donald Mzima  
 
-I am a Software Developer primarily focused on web development, with over **3 years** of professional experience.  
-🌍  I'm based in South Africa.  
-🖥️  See my portfolio at [https://donald-portfolio-beta.vercel.app](https://donald-portfolio-beta.vercel.app)  
-✉️  You can contact me at **donaldmzima8@gmail.com**  
-🧠  I'm currently learning **Angular**  
-🤝  I'm open to collaborating on any interesting open source projects  
+I'm a **Software Developer** focused on building clean, fast, and modern web applications.  
+With over **3 years of experience**, I enjoy solving problems and creating tools that make people's lives easier.  
 
----
-
-### 🧩 Skills  
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,angular,reactnative,nodejs,express,python,flask,django,graphql,prisma,mongodb,sqlite,git,gcp,vercel,netlify)](https://skillicons.dev)
+🌍  Based in **South Africa**  
+🖥️  Portfolio: [donald-portfolio-beta.vercel.app](https://donald-portfolio-beta.vercel.app)  
+✉️  Email: **donaldmzima8@gmail.com**  
+📱  Phone: **072 403 5942**  
+🧠  Currently learning **Angular**  
+🤝  Open to collaborating on **open-source projects** or creative ideas  
 
 ---
 
-### 🌐 Socials  
+## 🧩 Skills  
 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/DonaldMzima)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,angular,reactnative,nodejs,express,python,flask,django,graphql,prisma,mongodb,sqlite,postgres,gcp,vercel,netlify,git,github,figma,postman,vscode)](https://skillicons.dev)
 
 ---
 
-### 🏆 Badges  
+## 🌐 Socials  
 
-#### 📊 My GitHub Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonaldMzima&show_icons=true&theme=radical)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/DonaldMzima)  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/donaldmzima)
 
-#### 🔥 Streak Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=DonaldMzima&theme=dark&background=040202&ring=F71299D5&fire=F71299D5&currStreakLabel=F71299D5&sideLabels=F71299D5)](https://git.io/streak-stats)
+---
 
-#### 🧠 Top Languages  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonaldMzima&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 GitHub Stats  
+
+![Donald’s GitHub stats](https://github-readme-stats.vercel.app/api?username=DonaldMzima&show_icons=true&theme=radical&hide_border=true)  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DonaldMzima&theme=radical&hide_border=true)](https://git.io/streak-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonaldMzima&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 💡 About Me  
+
+- 🧩 I love creating user-friendly apps with great performance and design   
+- 🚀 Always learning new technologies and improving my skills  
+- 🎵 Fun fact: I also make music as *Mzima Da Blackout* 🎧  
+
+---
+
+⭐ **“Code with purpose, design with empathy, and learn every day.”**
