@@ -3,7 +3,7 @@
 I'm a **Software Developer** focused on building fast web applications.  
 With over **3 years of experience**, I enjoy solving problems and creating tools that make people's lives easier.  
 
-🌍  Based in **South Africa**  
+🌍  Based in **SA**  
 🖥️  Portfolio: [donald-portfolio-beta.vercel.app](https://donald-portfolio-beta.vercel.app)  
 ✉️  Email: **donaldmzima8@gmail.com**  
 📱  Phone: **078 994 1731**  
