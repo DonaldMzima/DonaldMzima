@@ -1,7 +1,7 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=F71299&center=false&vCenter=true&repeat=true&width=500&lines=👋+Hi+there%2C+I'm+Donald+Mzima!;💻+Software+Developer+from+SA;🚀+Building+clean+and+modern+web+apps)](https://git.io/typing-svg)
 
 I'm a **Software Developer** focused on building fast web applications.  
-With over **3 years of experience**, I enjoy solving problems and creating tools that make people's lives easier.  
+With years of experience**, I enjoy solving problems and creating tools that make people's lives easier.  
 
 🌍  Based in **SA**  
 🖥️  Portfolio: [donald-portfolio-beta.vercel.app](https://donald-portfolio-beta.vercel.app)  
