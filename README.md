@@ -7,7 +7,7 @@ With years of experience**, I enjoy solving problems and creating tools that mak
 🖥️  Portfolio: [donald-portfolio-beta.vercel.app](https://donald-portfolio-beta.vercel.app)  
 ✉️  Email: **donaldmzima8@gmail.com**  
 📱  Phone: **078 994 1731**  
-🧠  Currently learning **Angular**  
+🧠  Currently learning **Angular and Python**  
 🤝  Open to collaborating on **open-source projects** or creative ideas  
 
 ---
