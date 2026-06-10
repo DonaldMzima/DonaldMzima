@@ -33,7 +33,7 @@ With years of experience**, I enjoy solving problems and creating tools that mak
 <tr>
 <td align="center" width="50%">
 
-🌍 Based in **SA**
+🌍 Based in **South Africa**
 
 </td>
 <td align="center" width="50%">
